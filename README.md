@@ -10,7 +10,7 @@
 <a href="https://github.com/keras-team/keras" target="_blank"> <img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" alt="keras" width="40" height="40"/>
 <a href="https://github.com/pytorch/pytorch" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="pytorch" width="40" height="40"/>
 <a href="https://github.com/onnx/onnx" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31675368?s=200&v=4" alt="onnx" width="40" height="40"/>
-  
+<a href="https://github.com/huggingface" target="_blank"> <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/>
   
   
   
