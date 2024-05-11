@@ -11,8 +11,7 @@
 <a href="https://github.com/pytorch/pytorch" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="pytorch" width="40" height="40"/>
 <a href="https://github.com/onnx/onnx" target="_blank"> <img src="https://avatars.githubusercontent.com/u/31675368?s=200&v=4" alt="onnx" width="40" height="40"/>
 <a href="https://github.com/huggingface" target="_blank"> <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/>
-  
-  
+<a href="https://github.com/vllm-project/vllm" target="_blank"> <img src="https://avatars.githubusercontent.com/u/136984999?s=200&v=4" alt="vllm" width="40" height="40"/>
   
 ![](https://github-readme-stats.vercel.app/api?username=duanshengliu&show_icons=true&theme=dark&count_private=true)
 
